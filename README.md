@@ -70,6 +70,7 @@ mysql -u root prodatabase < SQL/brbooks.sql
 mysql -u root prodatabase < SQL/brboardgames.sql
 mysql -u root prodatabase < SQL/broom.sql
 ```
+หรือจะ import prodatabase.sql แค่อันเดียวก็ได้ 
 
 ### 4. ตรวจสอบการตั้งค่าเชื่อมต่อฐานข้อมูล
 
